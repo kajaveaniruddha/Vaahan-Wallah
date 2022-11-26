@@ -1,0 +1,15 @@
+Car1
+NumberPlate1
+AC
+1
+500
+Car2
+NumberPlate2
+Non-AC
+1
+600
+Car3
+NumberPlate3
+AC
+2
+700
