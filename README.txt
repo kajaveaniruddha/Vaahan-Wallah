@@ -2,8 +2,8 @@ Vaahan Wallah
 		- A simulator for vehicle rental system
 
 
-Vaahan Wallah is a real-system time simulator for vehicle rental system made using 
-knowledge of OOD/P with end-to-end Cpp. 
+Vaahan Wallah is a system time based simulator for vehicle rental system made using 
+OOD/P with end-to-end Cpp. 
 We have used ".txt" files as our data base.
 Showcasing our OOPs knowledge was our priority thus,
 we have kept our terminal based GUI simple but elegant . In due course of project

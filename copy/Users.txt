@@ -5,7 +5,7 @@ LicenseNumber1
 PhoneNumber1
 Name2
 Password2
-15000
+20000
 LicenseNumber2
 PhoneNumber2
 Name3
@@ -15,11 +15,6 @@ LicenseNumber3
 PhoneNumber3
 Name4
 Password4
-20500
-LicenseNumber4
-PhoneNumber4
-Name4
-Password4
-20500
+1000
 LicenseNumber4
 PhoneNumber4
