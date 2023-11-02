@@ -10,13 +10,13 @@ Vaahan Wallah is a sophisticated system time-based CLI simulator developed using
 We highly encourage you to try this project on your systems.
 
 * Landing page:
-![Landing page](https://raw.githubusercontent.com/kajaveaniruddha/Vaahan-Wallah/screenshots/Screenshot%20(185).png)
+![Landing page](https://drive.google.com/file/d/1e8h7sQUOoOf_vZuvJ2uaKjk2dTjjyOp-/view?usp=drive_link)
 
 * Sign up page:
-![user page](https://raw.githubusercontent.com/kajaveaniruddha/Vaahan-Wallah/screenshots/Screenshot%20(186).png)
+![user page](https://drive.google.com/file/d/12VPwQi8pBauceRklHUla39uHIu9V3nxs/view?usp=sharing)
 
 * Dashboard:
-![Dashboard](https://raw.githubusercontent.com/kajaveaniruddha/Vaahan-Wallah/screenshots/Screenshot%20(188).png)
+![Dashboard](https://drive.google.com/file/d/1MEulL7_7IHxluaX5mJWXIcsoR209nBtt/view?usp=sharing)
 
 ## Tech Stack
 
