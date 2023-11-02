@@ -10,19 +10,20 @@ Vaahan Wallah is a sophisticated system time-based CLI simulator developed using
 We highly encourage you to try this project on your systems.
 
 * Landing page:
-![Landing page](https://drive.google.com/file/d/1e8h7sQUOoOf_vZuvJ2uaKjk2dTjjyOp-/view?usp=drive_link)
+![Landing page](https://github.com/kajaveaniruddha/Vaahan-Wallah/assets/66174998/3b0865e6-7cdd-4c02-87d6-963b19110560)
+
 
 * Sign up page:
-![user page](https://drive.google.com/file/d/12VPwQi8pBauceRklHUla39uHIu9V3nxs/view?usp=sharing)
+![user page](https://github.com/kajaveaniruddha/Vaahan-Wallah/assets/66174998/0c60123a-aea6-4e00-9f9f-10ac8ce3d826)
+
 
 * Dashboard:
-![Dashboard](https://drive.google.com/file/d/1MEulL7_7IHxluaX5mJWXIcsoR209nBtt/view?usp=sharing)
+![Dashboard](https://github.com/kajaveaniruddha/Vaahan-Wallah/assets/66174998/4798a780-4ca2-4aef-925e-12f54a1ba72d)
 
 ## Tech Stack
 
 C++
             
-
 
 
 ## Run Locally
@@ -63,6 +64,4 @@ By seamlessly integrating OOP principles into the design and implementation of V
 
 https://whimsical.com/vaahan-wallah-NHcnVTUqyVJPYEUgYa7vCz
 
-[Pdf](https://github.com/kajaveaniruddha/Vaahan-Wallah/blob/3a81817dc210bb47b9d4dc36df2efdcbd557515a/Vaahan-Wallah%20pdf%20Presentation.pdf)&nbsp;&nbsp;&nbsp;
-[Video](https://github.com/kajaveaniruddha/Vaahan-Wallah/blob/3a81817dc210bb47b9d4dc36df2efdcbd557515a/Vaahan-Wallah%20video%20Presentation.mp4)&nbsp;&nbsp;&nbsp;
-[PPT](https://github.com/kajaveaniruddha/Vaahan-Wallah/blob/3a81817dc210bb47b9d4dc36df2efdcbd557515a/Vaahan-Wallah%20PPT.pptx)
+PPT, pdf and video to the project already uploaded in the repo.
